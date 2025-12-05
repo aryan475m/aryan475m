@@ -1,6 +1,6 @@
-<!-- Top Banner -->
+<!-- Aesthetic Futuristic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Aryan+Mahala;Student+Developer+%7C+AI+%26+ML+Enthusiast;Web+%26+App+Developer+%7C+Tech+Explorer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1500&color=9A4DFF&background=00000000&center=true&vCenter=true&width=900&height=90&lines=Aryan+Mahala;AI+%E2%80%A2+ML+Enthusiast+%E2%80%A2+Developer;Student+Developer+from+VIT+Chennai;Building+Ideas+%7C+Breaking+Limits+%7C+Learning+Nonstop" />
 </p>
 
 <p align="center"><i>"Don't just study data, reveal its secrets."</i></p>
