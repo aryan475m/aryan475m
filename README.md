@@ -1,29 +1,22 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:4b0082&height=220&section=header&text=Aryan%20Mahala&fontSize=45&desc=Don't%20just%20study%20data,%20reveal%20its%20secrets.&descSize=14&animation=twinkling&fontColor=ffffff" />
-</p>
-
-<h1 align="center">👋 Hey, I'm Aryan Mahala</h1>
-
-<p align="center">
-  <b>Student Developer · AI & ML Enthusiast · Web & App Developer</b><br>
-  🎓 VIT Chennai • Open to Collaboration & Freelance
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Aryan+Mahala;Student+Developer+%7C+AI+%26+ML+Enthusiast;Web+%26+App+Developer+%7C+Tech+Explorer;" />
 </p>
 
 <p align="center"><i>"Don't just study data, reveal its secrets."</i></p>
 
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-- 🤖 Deep interest in **AI, Machine Learning, Web & App Development**
-- 🧠 Love experimenting with **neural networks, models, and applied AI**
-- 🌱 Constantly learning through hands-on projects & real-world problems  
-- 🎮 When I'm not coding: you'll find me into **gaming, anime, basketball, or football**
+- 🤖 AI, Machine Learning, Web & App Development enthusiast  
+- 🧪 Love experimenting with neural networks and real-world ML implementation  
+- 💻 Learning by building — breaking things and rebuilding them better  
+- 🎮 Outside tech: **gaming, anime, basketball, and football**  
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack
 
 #### 🧠 Languages  
 <p>
@@ -31,9 +24,10 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
 </p>
 
-#### 🛠 Tools & Platforms  
+#### ⚙ Tools & Platforms  
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
@@ -41,16 +35,17 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
 </p>
 
-#### 🎨 Visual Tech Icons
+#### 🎨 Visual Icons
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
 </p>
 
 ---
@@ -59,89 +54,80 @@
 
 | Project | Description |
 |--------|------------|
-| 🔗 [NeuroPath](https://github.com/aryan475m/NeuroPath) | Neural-based intelligent routing / experimentation with AI decision paths |
-| 🔗 [AI Neural Network](https://github.com/aryan475m/An-ai-neural-network) | Custom neural network project for learning ML internals & experimentation |
+| 🔗 [NeuroPath](https://github.com/aryan475m/NeuroPath) | Neural-based intelligent routing and experimentation |
+| 🔗 [AI Neural Network](https://github.com/aryan475m/An-ai-neural-network) | Custom-built neural network for learning & research |
 
-> More projects coming soon — building, breaking, learning 👀
+> More coming soon — building, breaking, learning 👀
 
 ---
 
-### 🧭 Visual Dev Dashboard
+### 🧭 Developer Dashboard
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
 
-📍 <b>Current Focus</b>
-
-- 🤖 Better neural networks & ML models  
-- 🕸 Web + app integrations with AI  
-- ☁ Deploying things on Google Cloud  
-- 🧪 Trying ideas fast, learning even faster  
+📍 **Current Focus**  
+- Neural networks  
+- AI-driven applications  
+- Cloud deployment  
 
 </td>
-    <td>
+<td>
 
-🎯 <b>Short-Term Goals</b>
-
-- ✅ Build more AI-backed apps  
-- ✅ Get comfortable with Linux + cloud workflows  
-- ⬜ Ship a polished full-stack project  
-- ⬜ Participate in more Kaggle competitions  
+🎯 **Near Future Goals**  
+- Production-level AI apps  
+- Advanced cloud + backend skills  
+- Kaggle competitions & publications  
 
 </td>
-  </tr>
-  <tr>
-    <td>
+</tr>
+<tr>
+<td>
 
-🛤 <b>My Journey</b>
-
-- 🧒 Started with curiosity & basic code  
-- 🧱 Learned C, C++, Python, R  
-- 🧠 Entered the world of AI & ML  
-- 🚀 Now building projects that reflect what I learn  
+🛤 **Journey So Far**  
+- Started with curiosity  
+- Learned C, C++, Python, R  
+- Developing projects to expand skills  
 
 </td>
-    <td>
+<td>
 
-🧬 <b>Dev Identity</b>
-
-- 🔥 Problem Solver  
-- ⚡ AI Explorer  
-- 🎮 Gamer & Tech Enthusiast  
-- 🧩 Enjoys debugging (most of the time)  
-- 📈 Always pushing to level up  
+🧬 **Identity**  
+🔥 Problem Solver  
+⚡ ML Explorer  
+🎮 Gamer mindset  
+📈 Always leveling up  
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
 
-### 🎮 Fun Facts
+### 🎮 Fun Side of Me
 
-- 🌙 Most productive hours: when the world is quiet  
-- 🎧 Perfect combo: code + music + night  
-- 🏀 Can talk about **basketball & football** as much as code  
-- 📺 Anime fan with infinite watchlist  
-- 🧩 I believe the best way to learn is to break things and fix them better  
+- 🌙 Most productive at night  
+- 🍕 Debugging fuel = anything edible  
+- 🧠 “Learn → Break → Fix → Master”  
+- 🏀 Can talk about sports as much as code  
 
 ---
 
 ### 🤝 Connect With Me
 
-📩 Email: **aryan475m@gmail.com**
+📩 **Email:** `aryan475m@gmail.com`
 
 <p>
-<a href="https://www.linkedin.com/in/aryan-mahala-925405375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/aryan475m"><img src="https://img.shields.io/badge/Twitter/X-000000?logo=twitter&logoColor=white"></a>
-<a href="https://www.kaggle.com/aryanmahala"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"></a>
-<a href="https://leetcode.com/u/aryan475m/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aryan-mahala-925405375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/aryan475m"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.kaggle.com/aryanmahala"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/u/aryan475m/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
   <i>"Don't just study data, reveal its secrets."</i><br><br>
-  ⭐ If you like something here, consider starring a repo — it helps more than you think.
+  ⭐ If something here inspired you — a star goes a long way.
 </p>
